@@ -1,4 +1,4 @@
-# numixarc
+# numixarcf install guide
 install numix icon pack and arc theme on ubuntu, run with sudo
 
 Gnome tweaks tool setup guide:
