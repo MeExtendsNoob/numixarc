@@ -8,3 +8,6 @@ Install the host connector with 'sudo apt install chrome-gnome-shell'.
 (ATL + F2 + r to restart gnome shell)
 
 Run 'sudo chmod +x [path]/numix+arcf.config'. Run the script
+
+Some cool extensions:
+Dash to dock: pretty doc with customization
