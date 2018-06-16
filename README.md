@@ -11,3 +11,4 @@ Run 'sudo chmod +x [path]/numix+arcf.config'. Run the script
 
 Some cool extensions:
 Dash to dock: pretty doc with customization
+Drop down terminal
